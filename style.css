@@ -184,13 +184,13 @@ input {
 .time-stamp {
   background-color: rgb(167, 187, 19);
   width: 40px;
-  height: 20px;
+  height: 15px;
   border-radius: 6px;
   font-size: 12px;
   text-align: center;
   position: relative;
   left: 200px;
-  top: 115px;
+  top: 120px;
 }
 
 @media (width <= 768px) {
